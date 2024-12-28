@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my webpage ! I am currently a PhD student at the applied mathematic department (CMAP) of Ecole Polytechnique. I am scheluded to Defend my thesis in Autumn 2025 and am currently looking for a postdoc. You can find my resume [here](https://charles-meynard.github.io/files/resume.pdf)
+Welcome to my webpage ! I am currently a PhD student at the applied mathematics department (CMAP) of Ecole Polytechnique. I am scheduled to Defend my thesis in Autumn 2025 and am currently looking for a postdoc. You can find my resume [here](https://charles-meynard.github.io/files/resume.pdf)
 
 Research interest
 ======
